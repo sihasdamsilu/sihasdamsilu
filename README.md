@@ -14,8 +14,8 @@
 -         Tools    : Git, VS Code, Postman, Firebase
 
 - 📫 How to reach me : Instagram (https://www.instagram.com/sihasdamsilu_8?igsh=MWluOWM4aXNtcW54MA%3D%3D&utm_source=qr)
--                     : Facebook (https://www.facebook.com/share/1EuChkLg34/?mibextid=wwXIfr)
--                     : Liknedin (https://www.linkedin.com/in/sihas-damsilu-6443a3273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+-                       Facebook (https://www.facebook.com/share/1EuChkLg34/?mibextid=wwXIfr)
+-                       Liknedin (https://www.linkedin.com/in/sihas-damsilu-6443a3273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 -                 
 
--                                        THANK YOU !
+-                                                                                          THANK YOU !
