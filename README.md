@@ -1,6 +1,6 @@
 - 👋 Hi,
 
--   I’m @sihasdamsilu
+-   I’m sihasdamsilu
 -         I'm a B.Sc. (Hons.) Software Engineering student at IIT CAMPUS
 - 👀 I’m interested in
 -         Full-Stack Development  
